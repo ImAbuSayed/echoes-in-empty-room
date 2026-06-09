@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/echoes-in-empty-room/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Echoes In Empty Room](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/echoes-in-empty-room/) |
+| **Get License** | [Official Music Licensing for Echoes In Empty Room](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/echoes-in-empty-room/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `92d66c6d2952836bd11b3a09192447fa665cf14614de8b8a9f968b12013fed26` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
